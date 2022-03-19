@@ -1,0 +1,39 @@
+body{
+    background-color: #00184db6;
+}
+h1{
+    background-color: white;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    text-decoration: underline ;
+    padding-left: 30px;
+
+}
+img{
+height: 500px;
+width: 500px;
+margin-left: 100px;
+margin-top: 20px;
+border-radius: 10px;
+}
+h2{
+    background-color: white;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    text-decoration: underline;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right:100px ;
+    
+}
